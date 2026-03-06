@@ -223,4 +223,8 @@ padding-bottom:5px;
 
 footer p{
 margin:6px 0;
+
+  footer {
+  text-align: center;
+}
 }
